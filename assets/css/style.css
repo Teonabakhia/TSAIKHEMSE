@@ -1,0 +1,27 @@
+*{ 
+list-style-type: none;
+text-decoration: none;
+}
+.logo {
+    top: 20px;
+    left: 142px;
+    width: 79px;
+    height: 20px;
+    opacity: 1;
+}
+.produqcia {
+    top: 24px;
+    left: 2060px;
+    right: 1048px;
+    width: 214px;
+    height: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    opacity: 1;
+    color: green;
+}
+.kontaqti{
+    top:  20px;
+    left: 2060px;
+
+}
